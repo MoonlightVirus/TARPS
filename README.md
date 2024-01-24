@@ -8,8 +8,9 @@ Here are the things you have to follow:
 1. Install Python 3.10
 https://www.python.org/downloads/release/python-3100/ (Scroll down till the end and download the windows installer (64-bit)
 
+2. Download the dataset used for the program in this google drive link: https://drive.google.com/drive/folders/1ufZcREUM4EXw_07YF45W17HXNKZMwhLg?usp=sharing
 
-2. Install Jupyter Notebook
+3. Install Jupyter Notebook
 https://jupyter.org/install (install this once you have Python 3.10 in your device)
 -open command prompt by using the search bar or using windows key + r then type cmd
 -type pip install jupyter notebook
@@ -17,7 +18,7 @@ https://jupyter.org/install (install this once you have Python 3.10 in your devi
 -then type either jupyter notebook or python -m notebook to start the localhost
 -find "Tensorflow_ThirdUpdate" in the file browser of localhost:8888/tree
 
-3. Setup the Program (do it with or without me)
+4. Setup the Program (do it with or without me)
 -Click a block of code. (The link shows what it looks like)
 ![image](https://github.com/MoonlightVirus/TARPS/assets/101128234/11e475e3-0a0e-4eb8-a7f8-d47053318d99)
 
