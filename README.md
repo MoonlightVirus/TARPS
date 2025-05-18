@@ -18,7 +18,7 @@ https://jupyter.org/install (install this once you have Python 3.10 in your devi
 -then type either jupyter notebook or python -m notebook to start the localhost
 -find "Tensorflow_ThirdUpdate" in the file browser of localhost:8888/tree
 
-4. Setup the Program (do it with or without me)
+4. Setup the Program 
 -Click a block of code. (The link shows what it looks like)
 ![image](https://github.com/MoonlightVirus/TARPS/assets/101128234/11e475e3-0a0e-4eb8-a7f8-d47053318d99)
 
